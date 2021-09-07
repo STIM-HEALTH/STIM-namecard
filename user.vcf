@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Patel;Sagar;;;
-FN: Sagar  Patel 
+N:Wong;Arthur;;;
+FN: Arthur  Wong 
 ORG:STIM Acupuncture and Physical Therapy;
-TITLE:Physical Therapist
+TITLE:Licensed Acupuncturist
 EMAIL;type=INTERNET;type=WORK;type=pref:stimhealth.pro@gmail.com
 TEL;type=WORK;type=VOICE:+65 9123 4567
 item1.ADR;type=WORK;type=pref:;;139 Fulton St.\nSuite 208;;;New York, NY 10038
